@@ -1,0 +1,28 @@
+utils::bibentry(
+  # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+  # BibTeX entry:
+  # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+  bibtype = "article",
+  title   = "A database of unique protein sequence identifiers for proteome studies",
+  author  = "Gy{\"o}rgy Babnigg and Carol S. Giometti",
+  journal     = "Proteomics",
+  publisher   = "Wiley",
+  volume      = "6",
+  number      = "16",
+  pages       = "4514--4522",
+  month       = "aug",
+  year        = "2006",
+  issn        = "1615-9853, 1615-9861",
+  pmid        = "16858731",
+  doi         = "10.1002/pmic.200600032",
+
+  # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+  # Plain-text citation:
+  # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+  textVersion = paste(
+    "Babnigg, György, and Carol S Giometti,",
+    "A database of unique protein sequence identifiers for proteome studies.",
+    "Proteomics (2006) 6 (16): 4514–22.",
+    "https://doi.org/10.1002/pmic.200600032"
+  )
+)
